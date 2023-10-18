@@ -138,9 +138,6 @@ while (condición) {
 }
 ```
 
-**Operadores relacionados**:
-- `<=`: Menor o igual que (compara si un valor es menor o igual que otro).
-
 ### Ejemplo 1:
 
 ```java
